@@ -10,10 +10,10 @@ _Membres du groupe :_
 == Livrables
 
 [cols="1,2,2,5",options=header]
-[***
+|***
 | Date      | Nom         | Lien                        | Retour
 | XX/XX     | Etape 1     | https://patatipatata        | LALALLALALALALALALLAA
 | XX/XX     | Etape 2     | https://patatipatata2       | LALALLALALALALALALLAA
 | XX/XX     | Etape 3     | https://patatipatata3       | LALALLALALALALALALLAA
 | XX/XX     | Etape 4     | https://patatipatata4       | LALALLALALALALALALLAA
-]
+
