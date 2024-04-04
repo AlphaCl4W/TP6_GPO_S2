@@ -16,3 +16,4 @@ _Membres du groupe :_
 | XX/XX     | Etape 2     | https://patatipatata2       | LALALLALALALALALALLAA
 | XX/XX     | Etape 3     | https://patatipatata3       | LALALLALALALALALALLAA
 | XX/XX     | Etape 4     | https://patatipatata4       | LALALLALALALALALALLAA
+]
